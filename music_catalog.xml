@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<music_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+            xsi:schemaLocation="https://github.com/yh12chang/XML_Schema_Design/blob/main music_catalog.xsd">
+    <track track_id="6f807x0ima9a1j3VPbc7VN">
+        <track_name>I Don't Care (with Justin Bieber) - Loud Luxury Remix</track_name>
+        <artist_name>Ed Sheeran</artist_name>
+        <track_popularity>66</track_popularity>
+        <album album_id="2oCs0DGTsRO98Gh5ZSl2Cx">I Don't Care (with Justin Bieber) [Loud Luxury Remix]</album>
+        <release_date>6/14/19</release_date>
+        <playlist playlist_id="37i9dQZF1DXcZDD7cfEKhW">
+            <playlist_name>Pop Remix</playlist_name>
+            <playlist_genre>pop</playlist_genre>
+        </playlist>
+        <danceability>0.748</danceability>
+        <energy>0.916</energy>
+        <tempo measurement="bpm">122.036</tempo>
+        <duration time="ms">194754</duration>
+    </track>
+    <track track_id="0r7CVbZTWZgbTCYdfa2P31">
+        <track_name>Memories - Dillon Francis Remix</track_name>
+        <artist_name>Maroon 5</artist_name>
+        <track_popularity>67</track_popularity>
+        <album album_id="63rPSO264uRjW1X5E6cWv6">Memories (Dillon Francis Remix)</album>
+        <release_date>12/13/19</release_date>
+        <playlist playlist_id="37i9dQZF1DXcZDD7cfEKhW">
+            <playlist_name>Pop Remix</playlist_name>
+            <playlist_genre>pop</playlist_genre>
+        </playlist>
+        <danceability>0.726</danceability>
+        <energy>0.815</energy>
+        <tempo measurement="bpm">99.972</tempo>
+        <duration time="ms">162600</duration>
+    </track>
+</music_catalog>
